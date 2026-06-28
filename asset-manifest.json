@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Your_Dental_Clinic/static/css/main.f9d807a8.css",
-    "main.js": "/Your_Dental_Clinic/static/js/main.0215c4aa.js",
+    "main.js": "/Your_Dental_Clinic/static/js/main.3db538f0.js",
     "static/js/787.5e725103.chunk.js": "/Your_Dental_Clinic/static/js/787.5e725103.chunk.js",
     "static/media/1.png": "/Your_Dental_Clinic/static/media/1.7ee5d44283b510ee1579.png",
     "static/media/priority.png": "/Your_Dental_Clinic/static/media/priority.7d14df9bb9541b9ba080.png",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/Your_Dental_Clinic/static/media/logo.9cb018fc8926bbe6ba83.png",
     "index.html": "/Your_Dental_Clinic/index.html",
     "main.f9d807a8.css.map": "/Your_Dental_Clinic/static/css/main.f9d807a8.css.map",
-    "main.0215c4aa.js.map": "/Your_Dental_Clinic/static/js/main.0215c4aa.js.map",
+    "main.3db538f0.js.map": "/Your_Dental_Clinic/static/js/main.3db538f0.js.map",
     "787.5e725103.chunk.js.map": "/Your_Dental_Clinic/static/js/787.5e725103.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9d807a8.css",
-    "static/js/main.0215c4aa.js"
+    "static/js/main.3db538f0.js"
   ]
 }
